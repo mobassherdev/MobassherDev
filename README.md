@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 💼 Full-Stack Engineer from Bangladesh
-- 🔭 Currently working on a **Dropshipping ERP System**
+- 🔭 Currently working on a **eCommerce Applications**
 - 🌱 Learning **Cyber Security & Ethical Hacking**
 - 🎓 Graduate in Textile Engineering from Primeasia University
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Prisma, PostgreSQL**
