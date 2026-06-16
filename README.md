@@ -43,7 +43,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://mobassher.com" target="_blank" rel="noreferrer">
+  <a href="https://www.mobassher.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mobassherdev" target="_blank" rel="noreferrer">
